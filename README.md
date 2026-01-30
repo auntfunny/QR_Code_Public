@@ -21,9 +21,9 @@ This is the first public project I have completed. I have been learning HTML and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: [https://github.com/auntfunny/QR_Code_Public/tree/main](https://github.com/auntfunny/QR_Code_Public/tree/main)
+- Live Site URL: [https://auntfunny.github.io/QR_Code_Public/](https://auntfunny.github.io/QR_Code_Public/m)
+  
 ## My process
 
 ### Built with
